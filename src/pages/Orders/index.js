@@ -1,7 +1,5 @@
-function Orders () {
+export default function Orders(){
     return(
-        <h1>Orders</h1>
+        <div>Teste</div>
     )
 }
-
-export default Orders
